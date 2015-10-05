@@ -1,6 +1,6 @@
 {
   "name": "cmsis-no-hal-stm32f429xi",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CMSIS-CORE _WITHOUT_ any peripheral library or HAL for STM32F429xI chips",
   "keywords": [
     "stm32f429zi",
